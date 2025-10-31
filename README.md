@@ -50,7 +50,9 @@ Personal-Finance-Dashboard/Finance Dashboard.png
 # 📚 Learnings
 
 How to model personal finance data effectively in Power BI.
+
 Designing intuitive dashboards with interactive visuals.
+
 Creating and interpreting key financial KPIs and YoY trends.
 
 # 🧩 Future Improvements
