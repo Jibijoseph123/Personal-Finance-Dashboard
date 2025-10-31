@@ -45,7 +45,7 @@ Skills Used: Data Analysis, Visualization, Finance Analytics
 
 # 📷 Dashboard Preview
 
-[Finance Dashboard](Images/dashboard.png))
+Finance Dashboard.png
 
 # 📚 Learnings
 
